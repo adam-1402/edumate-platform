@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap:
+https://Adam-1402.github.io/edumate-platform/sitemap.xml
